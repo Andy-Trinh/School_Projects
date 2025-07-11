@@ -1,0 +1,3 @@
+STRINGLITERAL:"also unterminated \" [2,1]
+STRINGLITERAL:"backslash followed by space: \ is not allowed" [3,1]
+EOF [4,46]
