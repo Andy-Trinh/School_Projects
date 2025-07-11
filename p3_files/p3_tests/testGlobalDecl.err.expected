@@ -1,0 +1,4 @@
+a : custom {
+    a : int;
+    b : int;
+};

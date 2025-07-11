@@ -1,0 +1,10 @@
+a: immutable int;
+b: immutable bool;
+f : (a:int, b:bool, c:int) -> void { return;}
+f1 : () -> int { return 4;}
+g : custom {};
+main : () -> void {
+	a = 4;
+}
+
+
