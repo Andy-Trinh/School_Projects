@@ -1,0 +1,12 @@
+[BEGIN GLOBALS]
+f
+[END GLOBALS]
+[BEGIN <init> LOCALS]
+[END <init> LOCALS]
+fun_<init>: enter <init>
+lbl_0:      leave <init>
+[BEGIN f LOCALS]
+a (local var of 8 bytes)
+[END f LOCALS]
+fun_f:      enter f
+lbl_1:      leave f
